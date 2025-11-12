@@ -10,3 +10,5 @@ you are able to preview first 30 s
 and you can look up artis details/info. 
 Stop it in termianal pressing Ctrl+C
 if any questions/issues just ask or don't . :)
+
+Best result with artits like Drake
